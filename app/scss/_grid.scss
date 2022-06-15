@@ -1,0 +1,24 @@
+table{
+    border: black 3px solid;
+    border-collapse: collapse;
+    width: 32rem;
+    height: 32rem;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    margin-left: auto;
+    margin-right: auto;
+
+    tr,td{
+        border: 3px black solid;
+        text-align: center;
+        width: 10rem;
+        height: 10rem;
+        font-size: 6rem;
+        margin: 0;
+        padding: 0;
+
+        background-color: violet;
+        color: black;
+        
+    }
+}
